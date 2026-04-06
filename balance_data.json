@@ -33,5 +33,10 @@
     "quota": 3725.0,
     "used": 0.0,
     "timestamp": 1775307983.2792518
+  },
+  "ACCOUNTS_email": {
+    "quota": 149.84,
+    "used": 0.16,
+    "timestamp": 1775461405.6781354
   }
 }
